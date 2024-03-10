@@ -5,15 +5,44 @@ from app.operations.add import AddCommand
 from app.operations.divide import DivideCommand
 from app.operations.multiply import MultiplyCommand
 from app.operations.subtract import SubtractCommand
-from app.commands.menu import MenuCommand
 from app.commandhandler import CommandHandler
-
+from dotenv import load_dotenv
+import os
+import logging 
+import logging.config
 
 class App:
     def __init__(self):
+        os.makedirs('logs', exist_ok=True)
+        self.configure_logging()
+        load_dotenv()
+        self.settings = self.load_environment_variables()
         self.command_handler = CommandHandler()
         self.discover_and_load_plugins()
         self.register_commands()
+
+
+    def configure_logging(self):
+        logging_conf_path = "logging.conf"
+        if os.path.exists(logging_conf_path):
+            logging.config.fileConfig(logging_conf_path)
+        else:
+            logging.basicConfig(level=logging.INFO, filename='logs/app.log', filemode='w', format='%(asctime)s - %(levelname)s - %(message)s')
+        logging.info("Logging Configured")
+
+
+    def load_environment_variables(self):
+        settings = {key: value for key, value in os.environ.items()}
+        # print(settings)
+        print("Environment Variables:")
+        for key, value in os.environ.items():
+            print(f"{key}: {value}")
+        logging.info("Environment variables loaded")
+        return settings
+
+
+    def get_environment_variable(self, env_var: str = 'ENVIRONMENT'):
+        return self.settings.get(env_var, None)        
 
 
     def discover_and_load_plugins(self):
