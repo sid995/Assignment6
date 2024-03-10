@@ -1,7 +1,6 @@
 # test_app.py (continued)
 from app import App
 
-
 def test_load_environment_variables(monkeypatch):
     # Setup: Define a mock environment variable
     monkeypatch.setenv('TEST_VARIABLE', '12345')

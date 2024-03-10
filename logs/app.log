@@ -37,3 +37,407 @@
 2024-03-10 16:04:39,009 - root - INFO - App Initialized
 2024-03-10 16:04:39,009 - root - INFO - App started
 2024-03-10 16:04:39,009 - root - INFO - Displaying menu
+2024-03-10 16:14:14,612 - root - INFO - Environment variables loaded
+2024-03-10 16:14:14,613 - root - INFO - Discovering and loading plugins
+2024-03-10 16:14:14,613 - root - INFO - Loading plugin module: cube
+2024-03-10 16:14:14,613 - root - INFO - Registered command: cube
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __builtins__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __cached__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __doc__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __file__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __loader__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __name__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __package__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __path__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __spec__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - INFO - Loading plugin module: mod
+2024-03-10 16:14:14,613 - root - INFO - Registered command: mod
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __builtins__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __cached__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __doc__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __file__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,613 - root - WARNING - Ignored non-class attribute __loader__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __name__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __package__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __path__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __spec__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - INFO - Loading plugin module: square
+2024-03-10 16:14:14,614 - root - INFO - Registered command: square
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __builtins__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __cached__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __doc__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __file__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __loader__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __name__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __package__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __path__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - WARNING - Ignored non-class attribute __spec__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,614 - root - INFO - Registering commands
+2024-03-10 16:14:14,614 - root - INFO - App Initialized
+2024-03-10 16:14:14,614 - root - INFO - App started
+2024-03-10 16:14:14,614 - root - INFO - Displaying menu
+2024-03-10 16:14:14,614 - root - INFO - Executed command: add, Result: 3.0
+2024-03-10 16:14:14,615 - root - INFO - Executed command: add, Result: 8.0
+2024-03-10 16:14:14,615 - root - INFO - Executed command: subtract, Result: 1.0
+2024-03-10 16:14:14,615 - root - INFO - Executed command: multiply, Result: 30.0
+2024-03-10 16:14:14,615 - root - INFO - Exiting app
+2024-03-10 16:14:14,621 - root - INFO - Environment variables loaded
+2024-03-10 16:14:14,621 - root - INFO - Discovering and loading plugins
+2024-03-10 16:14:14,622 - root - INFO - Loading plugin module: cube
+2024-03-10 16:14:14,622 - root - INFO - Registered command: cube
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __builtins__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __cached__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __doc__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __file__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __loader__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __name__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __package__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __path__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __spec__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - INFO - Loading plugin module: mod
+2024-03-10 16:14:14,622 - root - INFO - Registered command: mod
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __builtins__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __cached__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __doc__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __file__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __loader__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __name__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __package__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __path__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - WARNING - Ignored non-class attribute __spec__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,622 - root - INFO - Loading plugin module: square
+2024-03-10 16:14:14,622 - root - INFO - Registered command: square
+2024-03-10 16:14:14,623 - root - WARNING - Ignored non-class attribute __builtins__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,623 - root - WARNING - Ignored non-class attribute __cached__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,623 - root - WARNING - Ignored non-class attribute __doc__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,623 - root - WARNING - Ignored non-class attribute __file__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,623 - root - WARNING - Ignored non-class attribute __loader__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,623 - root - WARNING - Ignored non-class attribute __name__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,623 - root - WARNING - Ignored non-class attribute __package__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,623 - root - WARNING - Ignored non-class attribute __path__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,623 - root - WARNING - Ignored non-class attribute __spec__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:14:14,623 - root - INFO - Registering commands
+2024-03-10 16:14:14,623 - root - INFO - App Initialized
+2024-03-10 16:14:14,623 - root - INFO - Environment variables loaded
+2024-03-10 16:14:14,630 - root - INFO - Fallback logging configured
+2024-03-10 16:28:35,669 - root - INFO - Environment variables loaded
+2024-03-10 16:28:35,669 - root - INFO - Discovering and loading plugins
+2024-03-10 16:28:35,670 - root - INFO - Loading plugin module: cube
+2024-03-10 16:28:35,670 - root - INFO - Registered command: cube
+2024-03-10 16:28:35,671 - root - WARNING - Ignored non-class attribute __builtins__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,671 - root - WARNING - Ignored non-class attribute __cached__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,671 - root - WARNING - Ignored non-class attribute __doc__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,671 - root - WARNING - Ignored non-class attribute __file__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,671 - root - WARNING - Ignored non-class attribute __loader__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,671 - root - WARNING - Ignored non-class attribute __name__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,671 - root - WARNING - Ignored non-class attribute __package__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,671 - root - WARNING - Ignored non-class attribute __path__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,672 - root - WARNING - Ignored non-class attribute __spec__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,672 - root - INFO - Loading plugin module: mod
+2024-03-10 16:28:35,672 - root - INFO - Registered command: mod
+2024-03-10 16:28:35,672 - root - WARNING - Ignored non-class attribute __builtins__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,672 - root - WARNING - Ignored non-class attribute __cached__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,672 - root - WARNING - Ignored non-class attribute __doc__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,672 - root - WARNING - Ignored non-class attribute __file__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,672 - root - WARNING - Ignored non-class attribute __loader__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,672 - root - WARNING - Ignored non-class attribute __name__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,673 - root - WARNING - Ignored non-class attribute __package__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,673 - root - WARNING - Ignored non-class attribute __path__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,673 - root - WARNING - Ignored non-class attribute __spec__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,673 - root - INFO - Loading plugin module: square
+2024-03-10 16:28:35,673 - root - INFO - Registered command: square
+2024-03-10 16:28:35,673 - root - WARNING - Ignored non-class attribute __builtins__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,673 - root - WARNING - Ignored non-class attribute __cached__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,673 - root - WARNING - Ignored non-class attribute __doc__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,673 - root - WARNING - Ignored non-class attribute __file__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,673 - root - WARNING - Ignored non-class attribute __loader__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,673 - root - WARNING - Ignored non-class attribute __name__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,673 - root - WARNING - Ignored non-class attribute __package__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,674 - root - WARNING - Ignored non-class attribute __path__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,674 - root - WARNING - Ignored non-class attribute __spec__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,674 - root - INFO - Registering commands
+2024-03-10 16:28:35,674 - root - INFO - App Initialized
+2024-03-10 16:28:35,674 - root - INFO - App started
+2024-03-10 16:28:35,674 - root - INFO - Displaying menu
+2024-03-10 16:28:35,674 - root - INFO - Executed command: add, Result: 3.0
+2024-03-10 16:28:35,674 - root - INFO - Executed command: add, Result: 8.0
+2024-03-10 16:28:35,674 - root - INFO - Executed command: subtract, Result: 1.0
+2024-03-10 16:28:35,675 - root - INFO - Executed command: multiply, Result: 30.0
+2024-03-10 16:28:35,675 - root - INFO - Exiting app
+2024-03-10 16:28:35,681 - root - INFO - Environment variables loaded
+2024-03-10 16:28:35,682 - root - INFO - Discovering and loading plugins
+2024-03-10 16:28:35,682 - root - INFO - Loading plugin module: cube
+2024-03-10 16:28:35,682 - root - INFO - Registered command: cube
+2024-03-10 16:28:35,682 - root - WARNING - Ignored non-class attribute __builtins__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,682 - root - WARNING - Ignored non-class attribute __cached__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,682 - root - WARNING - Ignored non-class attribute __doc__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,682 - root - WARNING - Ignored non-class attribute __file__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,682 - root - WARNING - Ignored non-class attribute __loader__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,682 - root - WARNING - Ignored non-class attribute __name__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,682 - root - WARNING - Ignored non-class attribute __package__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __path__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __spec__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - INFO - Loading plugin module: mod
+2024-03-10 16:28:35,683 - root - INFO - Registered command: mod
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __builtins__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __cached__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __doc__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __file__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __loader__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __name__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __package__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __path__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __spec__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - INFO - Loading plugin module: square
+2024-03-10 16:28:35,683 - root - INFO - Registered command: square
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __builtins__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,683 - root - WARNING - Ignored non-class attribute __cached__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,684 - root - WARNING - Ignored non-class attribute __doc__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,684 - root - WARNING - Ignored non-class attribute __file__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,684 - root - WARNING - Ignored non-class attribute __loader__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,684 - root - WARNING - Ignored non-class attribute __name__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,684 - root - WARNING - Ignored non-class attribute __package__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,684 - root - WARNING - Ignored non-class attribute __path__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,684 - root - WARNING - Ignored non-class attribute __spec__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,684 - root - INFO - Registering commands
+2024-03-10 16:28:35,684 - root - INFO - App Initialized
+2024-03-10 16:28:35,684 - root - INFO - Environment variables loaded
+2024-03-10 16:28:35,686 - root - INFO - Environment variables loaded
+2024-03-10 16:28:35,687 - root - INFO - Discovering and loading plugins
+2024-03-10 16:28:35,687 - root - INFO - Loading plugin module: cube
+2024-03-10 16:28:35,687 - root - INFO - Registered command: cube
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __builtins__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __cached__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __doc__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __file__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __loader__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __name__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __package__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __path__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __spec__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - INFO - Loading plugin module: mod
+2024-03-10 16:28:35,687 - root - INFO - Registered command: mod
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __builtins__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __cached__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __doc__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,687 - root - WARNING - Ignored non-class attribute __file__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __loader__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __name__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __package__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __path__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __spec__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - INFO - Loading plugin module: square
+2024-03-10 16:28:35,688 - root - INFO - Registered command: square
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __builtins__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __cached__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __doc__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __file__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __loader__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __name__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __package__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __path__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - WARNING - Ignored non-class attribute __spec__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:28:35,688 - root - INFO - Registering commands
+2024-03-10 16:28:35,688 - root - INFO - App Initialized
+2024-03-10 16:28:35,688 - root - INFO - Environment variables loaded
+2024-03-10 16:30:06,044 - root - INFO - Environment variables loaded
+2024-03-10 16:30:06,044 - root - INFO - Discovering and loading plugins
+2024-03-10 16:30:06,044 - root - INFO - Loading plugin module: cube
+2024-03-10 16:30:06,045 - root - INFO - Registered command: cube
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __builtins__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __cached__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __doc__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __file__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __loader__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __name__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __package__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __path__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __spec__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - INFO - Loading plugin module: mod
+2024-03-10 16:30:06,045 - root - INFO - Registered command: mod
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __builtins__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __cached__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __doc__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __file__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __loader__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __name__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,045 - root - WARNING - Ignored non-class attribute __package__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __path__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __spec__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - INFO - Loading plugin module: square
+2024-03-10 16:30:06,046 - root - INFO - Registered command: square
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __builtins__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __cached__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __doc__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __file__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __loader__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __name__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __package__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __path__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - WARNING - Ignored non-class attribute __spec__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,046 - root - INFO - Registering commands
+2024-03-10 16:30:06,046 - root - INFO - App Initialized
+2024-03-10 16:30:06,046 - root - INFO - App started
+2024-03-10 16:30:06,046 - root - INFO - Displaying menu
+2024-03-10 16:30:06,046 - root - INFO - Executed command: add, Result: 3.0
+2024-03-10 16:30:06,046 - root - INFO - Executed command: add, Result: 8.0
+2024-03-10 16:30:06,047 - root - INFO - Executed command: subtract, Result: 1.0
+2024-03-10 16:30:06,047 - root - INFO - Executed command: multiply, Result: 30.0
+2024-03-10 16:30:06,047 - root - INFO - Exiting app
+2024-03-10 16:30:06,053 - root - INFO - Environment variables loaded
+2024-03-10 16:30:06,053 - root - INFO - Discovering and loading plugins
+2024-03-10 16:30:06,053 - root - INFO - Loading plugin module: cube
+2024-03-10 16:30:06,053 - root - INFO - Registered command: cube
+2024-03-10 16:30:06,053 - root - WARNING - Ignored non-class attribute __builtins__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,053 - root - WARNING - Ignored non-class attribute __cached__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,053 - root - WARNING - Ignored non-class attribute __doc__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,053 - root - WARNING - Ignored non-class attribute __file__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,053 - root - WARNING - Ignored non-class attribute __loader__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __name__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __package__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __path__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __spec__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - INFO - Loading plugin module: mod
+2024-03-10 16:30:06,054 - root - INFO - Registered command: mod
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __builtins__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __cached__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __doc__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __file__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __loader__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __name__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __package__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __path__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __spec__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - INFO - Loading plugin module: square
+2024-03-10 16:30:06,054 - root - INFO - Registered command: square
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __builtins__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __cached__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __doc__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __file__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __loader__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __name__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,054 - root - WARNING - Ignored non-class attribute __package__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,055 - root - WARNING - Ignored non-class attribute __path__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,055 - root - WARNING - Ignored non-class attribute __spec__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,055 - root - INFO - Registering commands
+2024-03-10 16:30:06,055 - root - INFO - App Initialized
+2024-03-10 16:30:06,055 - root - INFO - Environment variables loaded
+2024-03-10 16:30:06,058 - root - INFO - Environment variables loaded
+2024-03-10 16:30:06,058 - root - INFO - Discovering and loading plugins
+2024-03-10 16:30:06,058 - root - INFO - Loading plugin module: cube
+2024-03-10 16:30:06,058 - root - INFO - Registered command: cube
+2024-03-10 16:30:06,058 - root - WARNING - Ignored non-class attribute __builtins__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,058 - root - WARNING - Ignored non-class attribute __cached__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,058 - root - WARNING - Ignored non-class attribute __doc__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,058 - root - WARNING - Ignored non-class attribute __file__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,058 - root - WARNING - Ignored non-class attribute __loader__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,058 - root - WARNING - Ignored non-class attribute __name__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,058 - root - WARNING - Ignored non-class attribute __package__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,058 - root - WARNING - Ignored non-class attribute __path__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,058 - root - WARNING - Ignored non-class attribute __spec__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,058 - root - INFO - Loading plugin module: mod
+2024-03-10 16:30:06,059 - root - INFO - Registered command: mod
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __builtins__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __cached__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __doc__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __file__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __loader__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __name__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __package__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __path__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __spec__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - INFO - Loading plugin module: square
+2024-03-10 16:30:06,059 - root - INFO - Registered command: square
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __builtins__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __cached__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __doc__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __file__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __loader__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __name__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __package__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __path__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - WARNING - Ignored non-class attribute __spec__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:30:06,059 - root - INFO - Registering commands
+2024-03-10 16:30:06,059 - root - INFO - App Initialized
+2024-03-10 16:40:56,249 - root - INFO - Environment variables loaded
+2024-03-10 16:40:56,249 - root - INFO - Discovering and loading plugins
+2024-03-10 16:40:56,250 - root - INFO - Loading plugin module: cube
+2024-03-10 16:40:56,250 - root - INFO - Registered command: cube
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __builtins__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __cached__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __doc__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __file__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __loader__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __name__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __package__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __path__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __spec__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - INFO - Loading plugin module: mod
+2024-03-10 16:40:56,250 - root - INFO - Registered command: mod
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __builtins__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __cached__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __doc__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __file__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __loader__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __name__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __package__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __path__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - WARNING - Ignored non-class attribute __spec__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,250 - root - INFO - Loading plugin module: square
+2024-03-10 16:40:56,251 - root - INFO - Registered command: square
+2024-03-10 16:40:56,251 - root - WARNING - Ignored non-class attribute __builtins__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,251 - root - WARNING - Ignored non-class attribute __cached__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,251 - root - WARNING - Ignored non-class attribute __doc__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,251 - root - WARNING - Ignored non-class attribute __file__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,251 - root - WARNING - Ignored non-class attribute __loader__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,251 - root - WARNING - Ignored non-class attribute __name__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,251 - root - WARNING - Ignored non-class attribute __package__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,251 - root - WARNING - Ignored non-class attribute __path__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,251 - root - WARNING - Ignored non-class attribute __spec__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,251 - root - INFO - Registering commands
+2024-03-10 16:40:56,251 - root - INFO - App Initialized
+2024-03-10 16:40:56,251 - root - INFO - App started
+2024-03-10 16:40:56,251 - root - INFO - Displaying menu
+2024-03-10 16:40:56,251 - root - INFO - Executed command: add, Result: 3.0
+2024-03-10 16:40:56,251 - root - INFO - Executed command: add, Result: 8.0
+2024-03-10 16:40:56,251 - root - INFO - Executed command: subtract, Result: 1.0
+2024-03-10 16:40:56,251 - root - INFO - Executed command: multiply, Result: 30.0
+2024-03-10 16:40:56,251 - root - INFO - Exiting app
+2024-03-10 16:40:56,256 - root - INFO - Environment variables loaded
+2024-03-10 16:40:56,256 - root - INFO - Discovering and loading plugins
+2024-03-10 16:40:56,257 - root - INFO - Loading plugin module: cube
+2024-03-10 16:40:56,257 - root - INFO - Registered command: cube
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __builtins__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __cached__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __doc__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __file__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __loader__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __name__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __package__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __path__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __spec__ in cube module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - INFO - Loading plugin module: mod
+2024-03-10 16:40:56,257 - root - INFO - Registered command: mod
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __builtins__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __cached__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __doc__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __file__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __loader__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __name__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __package__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __path__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __spec__ in mod module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - INFO - Loading plugin module: square
+2024-03-10 16:40:56,257 - root - INFO - Registered command: square
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __builtins__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __cached__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __doc__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __file__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,257 - root - WARNING - Ignored non-class attribute __loader__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,258 - root - WARNING - Ignored non-class attribute __name__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,258 - root - WARNING - Ignored non-class attribute __package__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,258 - root - WARNING - Ignored non-class attribute __path__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,258 - root - WARNING - Ignored non-class attribute __spec__ in square module: issubclass() arg 1 must be a class
+2024-03-10 16:40:56,258 - root - INFO - Registering commands
+2024-03-10 16:40:56,258 - root - INFO - App Initialized
+2024-03-10 16:40:56,258 - root - INFO - Environment variables loaded
